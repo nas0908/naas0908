@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nas0908
+👋 Hi there, I’m Nazeer Ahammed -aka nas
+I'm 19
 - 👀 I’m interested in tinkering with stuff, cooking
 - 🌱 I’m currently learning python, c++
 - 💞️ I’m looking to collaborate on projects involving automation using AI/ML
