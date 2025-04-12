@@ -1,8 +1,8 @@
 👋 Hi there, I’m Nazeer Ahammed -aka nas
-I'm 19
+I'm 20
 - 👀 I’m interested in tinkering with stuff, cooking
 - 🌱 I’m currently learning python, c++
-- 💞️ I’m looking to collaborate on projects involving automation using AI/ML
+- 💞️ I’m looking to collaborate on interdisciplinary projects 
 - 📫 How to reach me nazeerahamed0908@gmail.com
 
 <!---
