@@ -1,5 +1,5 @@
 👋 Hi there, I’m Nazeer Ahammed -aka nas
-I'm 20
+I'm 21
 - 👀 I’m interested in tinkering with stuff, cooking
 - 🌱 I’m currently learning python, c++
 - 💞️ I’m looking to collaborate on interdisciplinary projects 
